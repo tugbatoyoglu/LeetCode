@@ -23,4 +23,4 @@ class two_sum {
         return new int[]{};
     }
     
-}
+} //deneme 
